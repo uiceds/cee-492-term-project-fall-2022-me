@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-me/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-me/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-me/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/ffc6290fe18131ca2da0445ef90b839787c1ab7b/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/ffc6290fe18131ca2da0445ef90b839787c1ab7b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/ffc6290fe18131ca2da0445ef90b839787c1ab7b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/cdb1277736387bd1ae6f9312581dc2eed6cbd388/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/cdb1277736387bd1ae6f9312581dc2eed6cbd388/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/cdb1277736387bd1ae6f9312581dc2eed6cbd388/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/ffc6290fe18131ca2da0445ef90b839787c1ab7b/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-me/v/cdb1277736387bd1ae6f9312581dc2eed6cbd388/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-me@ffc6290](https://github.com/uiceds/cee-492-term-project-fall-2022-me/tree/ffc6290fe18131ca2da0445ef90b839787c1ab7b)
+from [uiceds/cee-492-term-project-fall-2022-me@cdb1277](https://github.com/uiceds/cee-492-term-project-fall-2022-me/tree/cdb1277736387bd1ae6f9312581dc2eed6cbd388)
 on September 6, 2022.
 </em></small>
 
